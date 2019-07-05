@@ -87,4 +87,4 @@ admin:
   username: jiang.xiaoyu
   password_hash: $2a$10$Vh1NQXC58Y8384cyraocZOSsC5Ko4nycB1Pn76HXbzn.xoei27Md.
   secret: google
-  deployCommand: ./admin_script/hexo-d.sh
+  deployCommand: ./admin_script/hexo-g.sh

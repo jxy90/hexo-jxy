@@ -1,7 +1,8 @@
 title: React 原则与生命周期
 author: 江小渔
 tags:
-  - Rect
+  - React
+  - ''
 categories: []
 date: 2019-07-03 20:43:00
 ---
