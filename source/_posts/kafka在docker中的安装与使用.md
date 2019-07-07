@@ -1,7 +1,8 @@
 title: kafka在docker中的安装与使用(Windows)
 author: 江小渔
-date: 2019-07-05 10:26:45
-tags:
+tags: []
+categories: []
+date: 2019-07-05 10:26:00
 ---
 # 下载
 - 下载镜像

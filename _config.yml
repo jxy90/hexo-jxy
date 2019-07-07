@@ -10,6 +10,26 @@ keywords:
 author: 江小渔
 language: zh-Hans
 timezone:
+avatar: /images/avatar.jpg
+
+# 社交
+social:
+  GitHub: https://github.com/jxy90 || github
+  E-Mail: mailto:1990jxy@gmail.com || envelope
+
+# Disqus
+disqus:
+  enable: true
+  shortname: littelfish
+  count: true
+
+post_wordcount:
+  item_text: true
+  wordcount: true  # 文章字数
+  min2read: true   # 阅读时间
+  totalcount: true  # 总共字数
+  separated_meta: true
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
