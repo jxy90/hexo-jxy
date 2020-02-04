@@ -6,6 +6,8 @@ categories:
   - golang
 date: 2019-12-09 14:36:00
 ---
+概述:接口/类型断言/通道select/值类型和引用类型/类型之间的组合/指针/Error/recover/context.Context类型/unicode与字符编码/string
+<!--more-->
 # 接口
 1. 倾向于是用小的接口定义,很多接口只包含一个方法
 ```

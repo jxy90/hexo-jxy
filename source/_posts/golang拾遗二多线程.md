@@ -6,7 +6,8 @@ categories:
   - golang
 date: 2019-12-09 14:38:00
 ---
-
+概述:goroutine/条件变量sync.Cond/进程线程goroutine/sync.WaitGroup和sync.Once
+<!--more-->
 # goroutine
 - 下面代码会输出什么
 ```
@@ -154,4 +155,3 @@ time.Sleep(time.Millisecond * 500)
 # sync.WaitGroup和sync.Once
 - 使用WaitGroup值:先统一Add，再并发Done，最后Wait
 - Once类型使用互斥锁和原子操作实现了功能，而WaitGroup类型中只用到了原子操作。
- 
